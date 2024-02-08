@@ -1,4 +1,7 @@
-//MAP
+//MAP --> is used to transform the array into new array
+// EG: doubled all the elements of the array, tripled all the elements of array 
+// EG: array = [1,2,3,4]--->double = [2,4,6,8] ---> triple =[3,6,9,12]
+
 const numbers = [3,4,5,7,8,6,1];
 
 const square = function(number){

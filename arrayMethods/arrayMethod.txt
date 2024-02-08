@@ -1,0 +1,4 @@
+forEach ---> must return something ---->but donot make new array.
+Map ---> must return something ---> Also make new array or returned elements
+filter ---> return a boolean value ---> make new array of true values (jo values se function true return krega uska new array banadega or false wali ko skip)
+Reduce --->
